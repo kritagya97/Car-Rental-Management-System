@@ -8,9 +8,9 @@ int choice;
     cout<<"\t|                          Car Rental Management System                     |"<<endl;
     cout<<"\t|___________________________________________________________________________|"<<endl;
     //display user choice
-    cout<<"\t\t  1  Login as Admin\t\t"<<endl;
-    cout<<"\t\t  2  Login as Employee\t\t"<<endl;
-    cout<<"\t\t 99  Exit \t\t"<<endl;
+    cout<<"\t\t  1.  Login as Admin\t\t"<<endl;
+    cout<<"\t\t  2.  Login as Employee\t\t"<<endl;
+    cout<<"\t\t 99.  Exit \t\t"<<endl;
     cout<<"\t____________________________________________________________________________"<<endl;
 
     //user input 
