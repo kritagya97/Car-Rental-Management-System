@@ -1,5 +1,9 @@
 #include <iostream>
 using namespace std;
+class Car{
+    public:
+            
+};
 
 int main(){
 int choice;
