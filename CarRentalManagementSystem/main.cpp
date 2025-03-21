@@ -5,7 +5,11 @@ class Car{
             
 };
 class User{
+    public:
+            void user_info(){
 
+                return 0;
+            }
 
 };
 
