@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1754109632 source:d:\clzprjct\crms\auth.cpp
+	"auth.h"
+
+1750949639 d:\clzprjct\crms\auth.h
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	"layout.h"
+
+1753968138 source:d:\clzprjct\crms\cases.cpp
+	"cases.h"
+
+1750927480 d:\clzprjct\crms\cases.h
+	<iostream>
+	<conio.h>
+	"car.h"
+
+1750943243 source:d:\clzprjct\crms\layout.cpp
+	"layout.h"
+
+1745075211 d:\clzprjct\crms\layout.h
+	<iostream>
+
+1753968422 source:d:\clzprjct\crms\main.cpp
+	"main.h"
+
+1744292147 source:d:\clzprjct\crms\user.cpp
+
+1750938883 d:\clzprjct\crms\main.h
+	<iostream>
+	<conio.h>
+	"layout.h"
+	"auth.h"
+	"cases.h"
+
+1754114459 source:d:\clzprjct\crms\car.cpp
+	"car.h"
+
+1754655535 d:\clzprjct\crms\car.h
+	<iostream>
+	<fstream>
+	<ctime>
+
